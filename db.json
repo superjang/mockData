@@ -1,6 +1,7 @@
 {
   "reviews": [
     {
+      "goodscode": "1597425435",
       "userId": "sil****",
       "createdAt": "2019.07.26",
       "readCount": "1132",
@@ -10,6 +11,7 @@
       "images": ["http://bampic.gmarket.co.kr/v1/297/310/1638310297/00681/1638310297301159168100.jpg"]
     },
     {
+      "goodscode": "1597425435",
       "userId": "kon****",
       "createdAt": "2019.07.18",
       "readCount": "974",
@@ -19,6 +21,7 @@
       "images": ["http://bampic.gmarket.co.kr/v1/297/310/1638310297/00102/1638310297301696610200.jpg"]
     },
     {
+      "goodscode": "1597425435",
       "userId": "dvd****",
       "createdAt": "2019.07.18",
       "readCount": "976",
@@ -28,6 +31,7 @@
       "images": []
     },
     {
+      "goodscode": "1597425435",
       "userId": "ltb****",
       "createdAt": "2019.07.18",
       "readCount": "979",
